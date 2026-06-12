@@ -1,0 +1,5 @@
+../Core/Src/main_app.c:44:5:main	2
+../Core/Src/main_app.c:76:6:SYSCLK_Config	10
+../Core/Src/main_app.c:211:6:TIMER2_Init	2
+../Core/Src/main_app.c:228:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main_app.c:238:6:Error_handler	1
